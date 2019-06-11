@@ -1,0 +1,6 @@
+ImageID,Source,LabelName,Confidence,XMin,XMax,YMin,YMax,IsOccluded,IsTruncated,IsGroupOf,IsDepiction,IsInside
+Data_1,C:\Users\765746\Desktop\Data_1.jpg,header,1,1,1600,6,8,0,0,0,0,0
+Data_1,C:\Users\765746\Desktop\Data_1.jpg,image,1,202,793,556,935,0,0,0,0,0
+Data_1,C:\Users\765746\Desktop\Data_1.jpg,div,1,808,1406,558,940,0,0,0,0,0
+Data_1,C:\Users\765746\Desktop\Data_1.jpg,heading,1,186,483,397,474,0,0,0,0,0
+Data_1,C:\Users\765746\Desktop\Data_1.jpg,footer,1,210,1588,2129,2260,0,0,0,0,0
